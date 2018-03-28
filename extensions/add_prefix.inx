@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+  <_name>add prefix</_name>
+  <id>org.ekips.filter.add_prefix</id>
+  <dependency type="executable" location="extensions">add_prefix.py</dependency>
+  <dependency type="executable" location="extensions">inkex.py</dependency>
+  <param name="prefix" type="string" _gui-text="Prefix to add to each object. Uses label when there, and delete it afterwards."></param>
+  <effect>
+    <object-type>all</object-type>
+    <effects-menu>
+       <submenu _name="Examples"/>
+    </effects-menu>
+  </effect>
+  <script>
+    <command reldir="extensions" interpreter="python">add_prefix.py</command>
+  </script>
+</inkscape-extension>
