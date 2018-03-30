@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="test-pacifico-72.svg"
+   inkscape:version="0.92+devel (af97b86, 2018-03-23)"
+   id="svg512"
+   version="1.1"
+   viewBox="0 0 700 297"
+   height="297mm"
+   width="700mm">
+  <sodipodi:namedview
+     showguides="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-x="0"
+     inkscape:window-height="1031"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="374.03951"
+     inkscape:cx="917.26923"
+     inkscape:zoom="0.35355339"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <defs
+     id="defs506" />
+  <metadata
+     id="metadata509">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 1"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <text
+       inkscape:label="text-zusatz"
+       id="text11460"
+       y="225.18451"
+       x="34.044724"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;line-height:1.25;font-family:Pacifico;-inkscape-font-specification:Pacifico;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Pacifico;-inkscape-font-specification:Pacifico;stroke-width:0.26458332;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;"
+         y="225.18451"
+         x="34.044724"
+         id="tspan11458"
+         sodipodi:role="line">ra wa</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1;"
+       x="28.105341"
+       y="165.4989"
+       id="text516-0"
+       inkscape:label="text-klein"><tspan
+         sodipodi:role="line"
+         id="tspan514-3"
+         x="28.105341"
+         y="165.4989"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Pacifico;-inkscape-font-specification:Pacifico;stroke-width:0.26458332;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;">a b c d e g h i j k l m n o p q s t u v x y z ä ö ü ß</tspan></text>
+    <text
+       inkscape:label="text-inner"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1;"
+       x="28.852104"
+       y="111.20124"
+       id="text516"><tspan
+         sodipodi:role="line"
+         id="tspan514"
+         x="28.852104"
+         y="111.20124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Pacifico;-inkscape-font-specification:Pacifico;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1;">aabcdefghijklmnopqrstuvwxyzäöüßß</tspan></text>
+    <text
+       inkscape:label="text-gross"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-opacity:1;"
+       x="27.702726"
+       y="58.454521"
+       id="text516-7"><tspan
+         sodipodi:role="line"
+         id="tspan514-0"
+         x="27.702726"
+         y="58.454521"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25.39999962px;font-family:Pacifico;-inkscape-font-specification:Pacifico;stroke-width:0.26458332;fill:#000000;fill-opacity:1;stroke:none;stroke-opacity:1;">AABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ</tspan></text>
+  </g>
+</svg>
